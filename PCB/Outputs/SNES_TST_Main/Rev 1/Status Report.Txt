@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SNES TST Main.PrjPcb]
+   Generated File[SNES TST Main.TXT]
+   Generated File[SNES TST Main.LDP]
+   Generated File[SNES TST Main.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:25:30 On 2024/10/23
