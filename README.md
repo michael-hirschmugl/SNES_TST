@@ -1,6 +1,6 @@
 # SNES-TST
 
-This repository was created by [Opatusos](https://github.com/Opatusos). If the original creator reads this, please shoot me a mail. I have just ordered your board designs and I'l like to get in touch!
+This repository was created by [Opatusos](https://github.com/Opatusos).
 
 This projects intends to clean up the blurry RGB video on the 3-chip SNES by using the PPU2's test pins. The board has only been tried on a SNSP-CPU-01 motherboard but it should work with all revisions. The firmware is missing most of the board's functions. The planned functions are the following:
 - dual analog ouput (verified, need further noise analysis, furthermore direct comparision is needed to the original video)
